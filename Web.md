@@ -12,6 +12,7 @@ The flag-'picoCTF{moooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo0
 
 It seems that we are in some directory with 3 txt files. The problem states that we can't specify absolute file paths and if we do so we get an error message saying "Not Authorized". I looked up the internet to learn about absolute and relative paths. The files are stored in /usr/share/nginx/html/ . So maybe we can read out the flag.txt file by going back 4 directories. That we can do by entering the command "../../../../flag.txt". 
 ![Screenshot (7)](https://github.com/Wixter07/CRYPTONITE-JTP-2/assets/150792650/3b741418-2da6-458e-ab16-3aeaf52c79cb)
+The flag-'picoCTF{7h3_p47h_70_5ucc355_e5a6fcbc}'
 
 ###Local authority
 
