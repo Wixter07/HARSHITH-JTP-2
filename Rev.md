@@ -10,7 +10,7 @@ The flag-`picoCTF{549698}`
 
 # ARMssembly 0
 
-I learnt a bit of Assembly Language but I wasn't able to read ARM Assembly. So I resorted to looking at the solution and learnt how it works. Basically the code was printing the number the larger number `w0`. The flag could be obtained by converting the decimal number to hexadecimal.
+I learnt a bit of Assembly Language but I wasn't able to read ARM Assembly. So I resorted to looking at the solution from [Martin Carlisle[(https://www.youtube.com/watch?v=BMvda3d0dt8) learnt how it works. Basically the code was printing the number the larger number `w0`. The flag could be obtained by converting the decimal number to hexadecimal.
 ![Screenshot (22)](https://github.com/Wixter07/CRYPTONITE-JTP-2/assets/150792650/400275a7-ffce-4d74-ba7a-e99b19a74c49)
 
 The flag-`picoCTF{E5C69CD8}`
