@@ -6,7 +6,7 @@ We'll try answering question from the USB flash drive using FTK Imager tool. We'
 
 So we can find a secrets.txt text file in the deleted **DO NOT OPEN** file. We can read through the texts to get malware C2 server.
 
-
+[5]
 
 **Ans- `mcgreedysecretc2.thm`**
 
@@ -14,7 +14,7 @@ So we can find a secrets.txt text file in the deleted **DO NOT OPEN** file. We c
 
 This is pretty straight forward. There's **JuicyTomaTOY.zip** file in the **DO NOT OPEN** file where inside it is the **JuicyTomaTOY.exe** executable file which is our required anwer.
 
-
+[6]
 
 **Ans- `JuicyTomaTOY.exe`**
 
@@ -31,7 +31,7 @@ We can go through the two png image files in the and look for the flag by search
 
 We can find the SHA1 has of the physical drive and forensic image by simply verifying the drive file. This detail was present in the challenge description.
 
-
+[7]
 
 **Ans- `39f2dea6ffb43bf80d80f19d122076b3682773c2`**
 
